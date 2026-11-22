@@ -13,6 +13,13 @@ The look of the Overworld and Nether (full AgX tonemapping, contrast adaptive sh
 fog) is inspired by the Iteration shader pack and written from scratch: no code of Iteration is in
 this pack.
 
+Horizon: two kinds of `program.*.enabled` lines Bliss carries are left out of shaders.properties,
+since Horizon reads them differently from Iris: `program.composite5.enabled = TAA_UPSCALING` (Iris
+ignores it for the world folders and builds composite5, which this pack needs; Horizon would drop
+it), and the `gbuffers_{entities,block}_translucent.enabled` lines tied to `IS_IRIS`. The pack draws
+the same under Iris without them; the Translucent Entities option no longer turns those two
+programs off.
+
 Sharing: this edit may be shared and modified under Chocapic13's rules in LICENSE.md, which apply
 to it unchanged.
 
