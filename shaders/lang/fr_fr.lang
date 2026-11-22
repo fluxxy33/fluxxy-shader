@@ -1,0 +1,24 @@
+# Fluxxy Shader (Chocapic13' Shaders edit)
+screen.End_Awakening=§dFluxxy Shader
+option.DIMENSION_LOOK=Ambiance par dimension
+option.DIMENSION_LOOK.comment=Un étalonnage et des effets uniques pour chaque dimension.
+option.DIMENSION_LOOK_STRENGTH=Intensité de l'ambiance
+option.DIMENSION_VIGNETTE=Vignette teintée
+option.END_AURORA=Aurores de l'End
+option.END_AURORA.comment=Des rideaux d'aurore qui traversent le ciel de l'End.
+option.END_AURORA_BRIGHTNESS=Luminosité des aurores
+option.END_NEBULA=Nébuleuse de l'End
+option.END_TWINKLING_STARS=Étoiles scintillantes
+option.END_VOID_PULSE=Le vide respire
+option.END_VOID_PULSE.comment=Une lente pulsation violette dans les ombres de l'End.
+option.END_CHROMATIC_ABERRATION=Franges du vide
+option.NETHER_HEAT_HAZE=Chaleur du Nether
+option.NETHER_HEAT_HAZE_STRENGTH=Intensité de la chaleur
+option.NETHER_EMBERS=Braises du Nether
+option.SHARPENING=Netteté
+option.SHARPENING.comment=Rend l'image plus nette sans créer de contours.
+option.SHARPENING_STRENGTH=Force de la netteté
+option.DAWN_AURORA=Aurores de l'Aurore
+option.DAWN_AURORA.comment=Des aurores roses et dorées dans le ciel de nuit de l'Aurore.
+option.DAWN_MOTES=Poussière de lumière
+option.DAWN_MOTES.comment=Des grains de lumière dorée qui flottent dans l'air de l'Aurore.
